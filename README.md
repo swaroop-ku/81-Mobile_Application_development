@@ -58,10 +58,5 @@ Open the project in **Android Studio** and click the **Run** button (or use `Shi
 - `database/`: Room database configuration and DAOs.
 - `utils/`: Networking clients, constants, and session managers.
 
-## 📸 Screenshots
-
-| Home Feed | News Search | Bookmarks |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Feed) | ![Search](https://via.placeholder.com/200x400?text=Search+Screen) | ![Bookmarks](https://via.placeholder.com/200x400?text=Bookmarks) |
 
 
