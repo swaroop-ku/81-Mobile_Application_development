@@ -1,0 +1,5 @@
+-keep class com.newsapp.models.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

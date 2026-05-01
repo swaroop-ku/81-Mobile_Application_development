@@ -1,0 +1,8 @@
+# This is an example file for local.properties.
+# Copy this file to local.properties and add your API key.
+
+# Location of the SDK. This is only used by Gradle.
+# sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+
+# NewsAPI Key from https://newsapi.org
+NEWS_API_KEY=your_api_key_here

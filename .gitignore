@@ -1,0 +1,28 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# Log files
+*.log
+
+# Gradle
+.gradle
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+
+# User-specific
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+
+# Backup files
+*.bak
+*.tmp
