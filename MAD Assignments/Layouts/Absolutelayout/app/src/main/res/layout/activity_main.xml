@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Absolute Layout"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_x="20dp"
+        android:layout_y="20dp" />
+
+
+    <Button
+        android:id="@+id/btnSignIn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="SIGN IN"
+        android:layout_x="30dp"
+        android:layout_y="400dp" />
+
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="CANCEL"
+        android:layout_x="200dp"
+        android:layout_y="400dp" />
+
+</AbsoluteLayout>

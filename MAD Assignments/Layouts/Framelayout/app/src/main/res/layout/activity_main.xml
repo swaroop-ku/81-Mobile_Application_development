@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <!-- Big vertical rectangle (Background) -->
+    <View
+        android:layout_width="150dp"
+        android:layout_height="300dp"
+        android:background="#2196F3"
+        android:layout_gravity="center" />
+
+    <!-- Small rectangle overlapping the big one -->
+    <View
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:background="#FF5722"
+        android:layout_gravity="center" />
+
+</FrameLayout>
